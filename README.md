@@ -151,3 +151,9 @@ TugasWeb-P9-LaravelSetup/
 - **`.editorconfig`** — Menentukan aturan format dasar file.
 - **`.gitattributes`** — Berisi konfigurasi atribut untuk Git.
 - **`.npmrc`** — Berisi konfigurasi untuk npm.
+
+## Screenshot
+
+### Halaman Laravel
+
+![Halaman Laravel](screenshots/laravel-welcome.png)
